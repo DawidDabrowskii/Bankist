@@ -18,3 +18,7 @@ Also current amount can be seen.
 Loan request can be done only if you have deposit which is 10% of loan which you would like to receive.
 
 Closing account is only possible if u input proper credentials.
+
+Every account(object) has it's own interest rate.
+
+Sort button sorts in ascending order. Second click turns it back to previous state. And so on and so forth.
