@@ -2,13 +2,11 @@
 
 Simplified version of bankist app
 
-There are four accounts with login/pin.
+There are two accounts with login/pin.
 Login are two first letter from first and last name.
 
 1. dd/1111
 2. jd/2222
-3. stw/3333
-4. ss/4444
 
 UI will pop up after someone is logged in.
 
@@ -22,3 +20,5 @@ Closing account is only possible if u input proper credentials.
 Every account(object) has it's own interest rate.
 
 Sort button sorts in ascending order. Second click turns it back to previous state. And so on and so forth.
+
+Every used has his locale(language package) set individually. Changes can be seen when switching accounts in currency and date tabs.
