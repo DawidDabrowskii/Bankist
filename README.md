@@ -22,3 +22,6 @@ Every account(object) has it's own interest rate.
 Sort button sorts in ascending order. Second click turns it back to previous state. And so on and so forth.
 
 Every used has his locale(language package) set individually. Changes can be seen when switching accounts in currency and date tabs.
+
+Timers were added. For example loan is not granted immediately, only after 3s. 
+Inactivity timer. User is logged out if timer reaches 0. There are 2 activities: Loan and transfer.
